@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Daniel NOM
+# Daniel PRISSETTE
 Elève ingénieur en [préciser sa spécialité]
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[danipris80@gmail.com](mailto:danipris80@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
